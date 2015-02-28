@@ -50,3 +50,8 @@ http://opensource.org/licenses/mit-license.php
 ##Author
 
 [Alessandro Crugnola](http://blog.sephiroth.it)
+
+
+##Update
+
+20150228  update gradle file
